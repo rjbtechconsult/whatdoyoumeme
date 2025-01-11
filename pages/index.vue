@@ -66,8 +66,6 @@ const createNewGame = async () => {
 };
 
 const saveGameToLocalStorage = (player: any, gameId: any) => {
-    console.log('Saving game to local storage');
-    
     playerStore.setPlayer({...player, gameId: gameId});
 };
 </script>
