@@ -73,7 +73,3 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-## Prerequisites
-- Node.js >= 20
-- Yarn >= 1.22.0
