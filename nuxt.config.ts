@@ -5,5 +5,4 @@ export default defineNuxtConfig({
   pages: true,
   modules: ['@pinia/nuxt'],
   plugins: ['~/plugins/piniaPersistedState.ts'],
-  buildDir: 'dist'
 })
